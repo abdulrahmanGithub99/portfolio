@@ -54,7 +54,7 @@
 
     // Typed Initiate with Arabic text
     if ($('.typed-text-output').length == 1) {
-        var typed_strings = 'مطور لارافيل, مطور ويب, مطور واجهة خلفية';
+        var typed_strings = 'مرحبا بك في موقعي, أنا مطور ويب, انا اصمم مواقع ويب, أحب البرمجة, أستمتع بالتعلم';
         var typed = new Typed('.typed-text-output', {
             strings: typed_strings.split(', '),
             typeSpeed: 100,
